@@ -1,6 +1,21 @@
 # Qwen 2.5 Coder 32B H100 Worker For RunPod Hub
 
+[![RunPod](https://api.runpod.io/badge/Bortlesboat/runpod-qwen-coder-32b-h100-vllm)](https://console.runpod.io/hub/Bortlesboat/runpod-qwen-coder-32b-h100-vllm)
+
 This repo packages an OpenAI-compatible `vLLM` worker around `Qwen/Qwen2.5-Coder-32B-Instruct` for H100-class RunPod Serverless deployments.
+
+Deploy on RunPod Hub:
+
+- https://console.runpod.io/hub/Bortlesboat/runpod-qwen-coder-32b-h100-vllm
+
+Good search terms for this listing:
+
+- `qwen coder 32b`
+- `qwen2.5-coder-32b-instruct`
+- `premium coding`
+- `repo copilot`
+- `vllm`
+- `h100`
 
 It is meant for heavier coding use cases:
 
